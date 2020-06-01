@@ -1,4 +1,4 @@
-![AWSWebApp](AWSWebAPP.png)
+![](images/AWSWebAPP.png)
 
 This repository contains a CloudFormation script to create the web app for the final project of the Deploy Infrastructure as Code (IAC) course in the Udacity Cloud DevOps Nanodegree. 
 
